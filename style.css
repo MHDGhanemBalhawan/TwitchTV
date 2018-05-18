@@ -1,0 +1,68 @@
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700|Roboto:400,500,700,900");
+body {
+  background-color: #9900cc;
+  background-image: url("https://res.cloudinary.com/guypro/image/upload/v1502827513/pexels-photo-532324_qcarey.jpg");
+  background-size:cover;
+  image-repeat:no-repeat;
+  width:auto;
+  height:100%;
+}
+.heading {
+  background-color: #7898e3;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 700;
+  border-radius: 5px;
+  padding: 5px;
+  margin: 2px auto;
+  text-shadow: 5px 5px 0px #dcdcdc, 7px 7px 0px #dcdcdc;
+}
+.block {
+  font-size: 26px;
+  font-weight: bolder;
+  color: #16c98d;
+  border-radius: 5px;
+  margin: 0px;
+  padding: 0px;
+}
+ul {
+  list-style: none;
+  border-radius: 5px;
+  margin: 0px;
+  padding: 0px;
+}
+li {
+  padding: 7px 0px;
+  background: linear-gradient(to bottom, #cc6600 0%, #ff99cc 100%);
+  border-bottom: 2px solid red;
+  border-top: 1px solid white;
+  width: 100%;
+  border-radius: 5px;
+  margin: 0px;
+  padding: 0px;
+}
+.online{
+  color:#feef6d;
+}
+.main {
+  background-color: #67747c;
+  text-align: center;
+  border-radius: 5px;
+  min-height: 200px;
+  padding-top: 20px;
+  font-family: Roboto;
+  font-weight: 600;
+  color: #bf538d;
+  background-color: #1d508d;
+}
+#chanHead {
+  background-color: #297CBB;
+  border: 1px solid #684e79;
+  padding: 5px;
+  border-raduis: 5px;
+  color:#dbe6ec;
+  margin-bottom:5px;
+}
+a {
+  color: #8b008b;
+}
